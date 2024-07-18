@@ -1,0 +1,180 @@
+.wp6612913-varanasi-wallpapers-icon {
+  position: absolute;
+  top: -104px;
+  left: 0;
+  width: 2005px;
+  height: 1333px;
+  object-fit: cover;
+}
+.a {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  filter: blur(4px);
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 1920px;
+  height: 134px;
+}
+.about,
+.events,
+.home {
+  position: absolute;
+  top: 15px;
+  left: 608.7px;
+}
+.about,
+.events {
+  top: 16px;
+  left: 742.7px;
+}
+.events {
+  top: 17px;
+  left: 880.7px;
+}
+.availability,
+.itinerary {
+  position: absolute;
+  top: 18px;
+  left: 1032.7px;
+}
+.availability {
+  top: 19px;
+  left: 1220.7px;
+}
+.group-item,
+.pages {
+  position: absolute;
+  top: 20px;
+  left: 1439.7px;
+}
+.group-item {
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #c11f2a;
+  border: 1px solid rgba(0, 0, 0, 0.19);
+  box-sizing: border-box;
+  width: 226px;
+  height: 56px;
+}
+.download-fyi {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 68px);
+}
+.rectangle-group {
+  position: absolute;
+  top: 5px;
+  left: 1621.7px;
+  width: 226px;
+  height: 56px;
+  font-size: 22px;
+  color: #f1f8ff;
+}
+.group-icon,
+.group-inner {
+  position: absolute;
+  height: 100%;
+  width: 47.3%;
+  top: 0;
+  right: 52.7%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon {
+  height: 75.7%;
+  width: 43.35%;
+  top: 15.4%;
+  right: 0;
+  bottom: 8.91%;
+  left: 56.65%;
+}
+.group-parent {
+  position: absolute;
+  height: 88.36%;
+  width: 14.65%;
+  top: 0;
+  right: 85.35%;
+  bottom: 11.64%;
+  left: 0;
+}
+.group-wrapper,
+.home-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1847.7px;
+  height: 61px;
+}
+.group-wrapper {
+  top: 36px;
+  left: 33.3px;
+}
+.rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 134px;
+}
+.welcome-to {
+  margin: 0;
+}
+.kashi-summit {
+  margin: 0;
+  background: linear-gradient(
+    90deg,
+    #37226d 2.4%,
+    #e33035 26.4%,
+    #ba1b2e 46.4%,
+    #411f96 72.4%,
+    #f50d13
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.welcome-to-kashi-container {
+  position: absolute;
+  top: 206px;
+  left: 1064px;
+  font-size: 150px;
+  font-family: var(--font-montez);
+  display: inline-block;
+  width: 702px;
+  height: 368px;
+  color: #030303;
+}
+.frame-child {
+  position: absolute;
+  height: 3%;
+  width: 25.16%;
+  top: 51.67%;
+  right: 0;
+  bottom: 45.33%;
+  left: 74.84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.wp6612913-varanasi-wallpapers-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--white);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--white);
+  font-family: var(--font-pecita);
+}
+.Rectangle9416{
+
+  object-fit: cover;
+}
+.file0-1521757466679 {
+  object-fit: fill;
+} 

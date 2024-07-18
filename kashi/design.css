@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-montez: Montez;
+    --font-pecita: Pecita;
+  
+    /* font sizes */
+    --font-size-7xl: 26px;
+  
+    /* Colors */
+    --white: #fff;
+  }
+  
